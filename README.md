@@ -1,2 +1,2 @@
 # Python-quiz
-Made a quiz using Python using Gui+Tkinter
+Made a quiz using Python with Gui+Tkinter
